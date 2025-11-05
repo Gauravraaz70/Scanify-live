@@ -1,7 +1,9 @@
 🥗 Scanify — AI-Powered Health Scanner   http://scanifyapp.vercel.app
 
 Version: 0.1.0
+
 Status: 🟢 Active Development
+
 **Platform:** Next.js 15 (App Router) + React 19 + TypeScript --- ##
 
 project Link:- http://scanifyapp.vercel.app
