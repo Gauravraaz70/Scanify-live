@@ -14,7 +14,7 @@ Scanify is an AI-powered smart health scanning platform designed to help users i
 
 🌍 Mission
 
-“Scan Smart, Eat Fresh” — Empowering people to make informed health and dietary choices using AI-driven instant analysis and privacy-first architecture.
+“Scan Smart, Eat Fresh, Stay Healthy” — Empowering people to make informed health and dietary choices using AI-driven instant analysis and privacy-first architecture.
 
 💡 Vision
 
