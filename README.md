@@ -1,6 +1,6 @@
 🥗 Scanify — AI-Powered Health Scanner   http://scanifyapp.vercel.app
 
-Version: 0.1.0
+Version: 1.0.0
 
 Status: 🟢 Active Development
 
